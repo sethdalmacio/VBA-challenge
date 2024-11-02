@@ -1,7 +1,5 @@
 # VBA-challenge
 
-Stock Analysis VBA Script
-Overview
 This VBA script automates the analysis of stock data across multiple worksheets in an Excel workbook. It processes the stock trading data to calculate various metrics for each unique stock ticker, including:
 
 - Quarterly Change
